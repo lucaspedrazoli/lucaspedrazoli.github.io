@@ -8,4 +8,4 @@ layout: default
 <br>
 
 # spotify:
-<iframe src="https://open.spotify.com/embed/artist/4YDmV7HfHNlwXBnoLkLrrd&theme=white" width="560" height="380" frameborder="200" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/artist/4YDmV7HfHNlwXBnoLkLrrd?theme=white&view=coverart" width="560" height="380" frameborder="200" allowtransparency="true" allow="encrypted-media"></iframe>
