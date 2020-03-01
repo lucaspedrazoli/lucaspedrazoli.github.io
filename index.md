@@ -2,10 +2,7 @@
 layout: default
 ---
 
-<iframe id="player" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=ZUc9ZQHBazg"
-  frameborder="0">
- </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUc9ZQHBazg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Link to another page](./another-page.html).
 
