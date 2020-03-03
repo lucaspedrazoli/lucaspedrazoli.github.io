@@ -6,7 +6,7 @@ layout: default
 
 
 <div class="vid-container">
-<iframe width="560" height="315" showinfo="1" src="https://www.youtube.com/embed/videoseries?list=PL7smZQW3puyY7oWHo3kXcNel8SNSLERJU" frameborder="0" allow=" autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% showinfo="1" src="https://www.youtube.com/embed/videoseries?list=PL7smZQW3puyY7oWHo3kXcNel8SNSLERJU" frameborder="0" allow=" autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
