@@ -8,7 +8,7 @@ layout: default
 <br>
 
 ## spotify:
-<iframe src="https://open.spotify.com/artist/4YDmV7HfHNlwXBnoLkLrrd?si=J3m2GYnFT9yF6to8CPLI7g" width="560" height="200" frameborder="360" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/artist/4YDmV7HfHNlwXBnoLkLrrd" width="560" height="200" frameborder="360" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br>
 
