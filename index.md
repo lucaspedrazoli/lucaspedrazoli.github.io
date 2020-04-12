@@ -18,6 +18,6 @@ layout: default
 <br>
 
 ## deezer:
-<iframe scrolling="no" frameborder="0" allowTransparency="true" src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=560&height=350&color=161212&layout=dark&size=medium&type=tracks&id=888597222&app_id=1" width="100%" height="90"></iframe>
+<iframe scrolling="no" frameborder="0" allowTransparency="true" src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=ff0000&layout=dark&size=medium&type=radio&id=artist-85351362&app_id=1" width="100%" height="200"></iframe>
 
 <br>
